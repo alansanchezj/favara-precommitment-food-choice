@@ -56,7 +56,7 @@ This repository contains the Stata code to replicate the results in the paper. T
 
 3. Place `experiment_songs.do` in `Replication files/Dofiles/`
 
-4. Open `experiment_songs.do` and update the folder path at the top of the file to match your local directory
+4. Open `experiment_songs.do` and update the folder path at the top of the file to match your local directory. **Linux/Mac users:** replace backslashes (`\`) with forward slashes (`/`) in the path globals.
 
 5. Install required Stata packages (if not already installed):
    ```stata
