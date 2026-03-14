@@ -1,6 +1,15 @@
-# When choice matters: the asymmetric effects of precommitment implementation on healthy food choice
+# When choice matters: The asymmetric effects of precommitment implementation on healthy food choice
 
-**Favara, M., Mihaylova, J. and Sánchez, A.**
+**Marta Favara, Joanna Mihaylova, Alan Sánchez**
+
+*Journal of Economic Psychology*, Volume 114, 2026, 102889.
+https://doi.org/10.1016/j.joep.2026.102889
+
+## Abstract
+
+This paper investigates the role of precommitment in making healthy food choices, using a lab-in-the-field experiment embedded in the Young Lives longitudinal study in Peru. Leveraging the fact that participants were scheduled for a blood test and would therefore require a snack afterwards, we elicited participants' snack choice from a predefined set. Participants were asked whether they wished to pre-commit to their preferred snack choice (either healthy or unhealthy) to be consumed the following day, following their blood test, or to choose the snack on the spot. A randomised subsample was informed about the rationale for precommitment (information treatment) prior to their decision. After deciding whether they would like to pre-commit their snack choice or not, participants were again randomised into two groups: the first group had their preferred choice (either pre-commit or choose on the spot) implemented; in contrast, the second group's choice was overridden ('choice override' treatment). Our findings suggest that: first, there is a high demand for precommitment, with 68.5% of participants wanting to pre-commit their preferred snack choice. Second, the information treatment had no significant effect on participants' willingness to pre-commit. Third, overriding participants' precommitment decision leads to asymmetric effects on desired behaviour: for those who had pre-committed to a healthy snack, being forced to choose on the spot decreases healthy food choice; conversely, those who pre-committed to an unhealthy snack were more likely to choose a healthy one. These findings highlight the need to carefully target commitment devices, given their potential asymmetric effects on desired behaviours.
+
+**Keywords:** Field experiment; Food selection; Self-control; Precommitment; Survey data
 
 ## Overview
 
