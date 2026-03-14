@@ -2,6 +2,8 @@
 
 **Marta Favara, Joanna Mihaylova, Alan Sánchez**
 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 *Journal of Economic Psychology*, Volume 114, 2026, 102889.
 https://doi.org/10.1016/j.joep.2026.102889
 
