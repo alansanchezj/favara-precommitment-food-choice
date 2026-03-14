@@ -1,0 +1,24 @@
+# Data files
+Data/
+
+# Outputs
+Output/
+
+# Sensitive files
+read.me_donotshare.txt
+readme_11January26.docx
+
+# Stata temp files
+*.smcl
+*.log
+*.stswp
+
+# R temp files
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
