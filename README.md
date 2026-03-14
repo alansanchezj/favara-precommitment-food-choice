@@ -15,7 +15,7 @@ This paper investigates the role of precommitment in making healthy food choices
 
 ## Overview
 
-This repository contains the dataset and code (Stata) to replicate the results in the paper.
+This repository contains the Stata code to replicate the results in the paper. The data is available separately at the [Harvard Dataverse](https://dataverse.harvard.edu/dataverse/whenchoicematters).
 
 ## Folder structure
 
